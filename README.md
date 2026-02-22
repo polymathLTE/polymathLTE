@@ -15,12 +15,21 @@
 
 ## About Me
 
-I'm a software engineer and data scientist with a passion for building things that matter — from AI-powered assistants and algorithmic trading systems to cloud infrastructure and blockchain protocols. I bring together a strong engineering foundation with data-driven thinking to solve complex, real-world problems.
+I'm a software engineer and data scientist with a passion for building things that matter -- from AI-powered assistants and algorithmic trading systems to cloud infrastructure and blockchain protocols. I bring together a strong engineering foundation with data-driven thinking to solve complex, real-world problems.
 
-- 🔭 Currently building **[TradingBridge](https://github.com/polymathLTE/TradingBridge)** -- a production-grade .NET trading system
-- 🤖 Exploring **agentic AI** systems for finance, law, and policy intelligence
-- ⛓️ Experimenting with **omni-chain DeFi** on LayerZero / Solana
-- ♟️ Chess player · Lifelong learner
+Chess player. Lifelong learner.
+
+---
+
+## Currently Working On
+
+<!-- CURRENT_PROJECTS:START -->
+- [**PolyCorp**](https://github.com/polymathLTE/PolyCorp) -- Polymath Corporation professional profile
+- [**alx-low_level_programming**](https://github.com/polymathLTE/alx-low_level_programming) -- This covers the basics of low-level programming
+- [**TradingBridge**](https://github.com/polymathLTE/TradingBridge) -- A port of my MACD trader to .NET that turned serious
+- [**bgycc-demo-app**](https://github.com/polymathLTE/bgycc-demo-app) -- A leadership development application
+- [**agentic-ai**](https://github.com/polymathLTE/agentic-ai) -- Retrieves very recent policy, finance and legal news for required context
+<!-- CURRENT_PROJECTS:END -->
 
 ---
 
