@@ -24,11 +24,11 @@ Chess player. Lifelong learner.
 ## Currently Working On
 
 <!-- CURRENT_PROJECTS:START -->
+- [**polymathLTE**](https://github.com/polymathLTE/polymathLTE) -- Github profile repository
 - [**PolyCorp**](https://github.com/polymathLTE/PolyCorp) -- Polymath Corporation professional profile
+- [**ml-zoomcamp**](https://github.com/polymathLTE/ml-zoomcamp) -- Submission repo for the coursework and homeworks
 - [**alx-low_level_programming**](https://github.com/polymathLTE/alx-low_level_programming) -- This covers the basics of low-level programming
 - [**TradingBridge**](https://github.com/polymathLTE/TradingBridge) -- A port of my MACD trader to .NET that turned serious
-- [**bgycc-demo-app**](https://github.com/polymathLTE/bgycc-demo-app) -- A leadership development application
-- [**agentic-ai**](https://github.com/polymathLTE/agentic-ai) -- Retrieves very recent policy, finance and legal news for required context
 <!-- CURRENT_PROJECTS:END -->
 
 ---
